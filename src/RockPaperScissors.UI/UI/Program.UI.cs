@@ -150,19 +150,3 @@ public class ProgramUI
         Console.ReadKey();
     }
 }
-
-
-/*public Random randomNumber {get;} = new Random();
-Call upon Update method in Repo to have "scorecared"
-Also repo: read result/ scorecard
-Do you want to play? "(Create)"
-Input (Response)
-Update Computer input
-Update Victory
-(Return/read) results
-Delete (delete scorecard)
-
-(exit code, part of a switch)
- case "x":
-    isRunning = CloseApplication();
-    break;*/
